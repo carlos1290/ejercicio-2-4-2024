@@ -15,3 +15,7 @@ function sumainput() {
     var sumado = numero1 + numero2;
     resultado.innerText = "resultado:" + sumado;
 }
+function video() {
+    var video = document.getElementById("video2");
+    var contenedor = document.getElementById("container");
+}
